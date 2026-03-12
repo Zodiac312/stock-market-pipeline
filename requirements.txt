@@ -1,0 +1,5 @@
+Python libraries used:
+yfinance
+pandas
+kafka-python
+pymongo
